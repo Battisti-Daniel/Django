@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="364ac61a-5040-4bba-815b-7736a10d71b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/recipes/templates/recipes/partials/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipes/templates/recipes/pages/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/templates/recipes/pages/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipes/templates/recipes/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/templates/recipes/partials/head.html" afterDir="false" />
@@ -56,7 +55,7 @@
       <workItem from="1676418223893" duration="153000" />
       <workItem from="1676418387326" duration="5285000" />
       <workItem from="1676499284073" duration="3433000" />
-      <workItem from="1676730596249" duration="4545000" />
+      <workItem from="1676730596249" duration="12796000" />
     </task>
     <servers />
   </component>
