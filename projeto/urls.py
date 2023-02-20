@@ -15,10 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from recipes.views import *
+from recipes import views
 
 from django.http import HttpResponse
 
 urlpatterns = [
-    path("",home),
+    path("",views.home, name = "recipes-home"),
+    path("recipes/<int:id>/",views.recipe, name="recipes-recipe"),
 ]
